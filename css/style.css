@@ -32,7 +32,11 @@ body img {
   font-weight: 800;
 }
 
-#weather span {
+#login-form {
+  position: absolute;
+  top: 100px;
+  left: 40%;
+  color: black;
 }
 
 #clock {
@@ -56,7 +60,7 @@ h1 {
   text-align: center;
 }
 
-input {
+#todo-form input {
   margin-top: 10px;
   border-top-style: hidden;
   border-right-style: hidden;
@@ -72,13 +76,13 @@ input {
   color: white;
 }
 
-input::placeholder {
+#todo-form input::placeholder {
   color: white;
   opacity: 1;
   border: 1px;
 }
 
-input:focus::placeholder {
+#todo-form input:focus::placeholder {
   color: transparent;
 }
 
