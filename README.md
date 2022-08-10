@@ -1,6 +1,5 @@
 # momentum
- momentum-chrome-app-clone
-
+ momentum-chrome-app-clone | Web Application
 Using JavaScript, HTML, CSS
 
-Deployment: https://hgchoi1116.github.io/momentum/
+Website: https://hgchoi1116.github.io/momentum/
